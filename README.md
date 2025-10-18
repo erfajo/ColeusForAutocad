@@ -1,8 +1,8 @@
-﻿#Coleus
+﻿# Coleus
   
 ![commit](https://img.shields.io/github/last-commit/erfajo/ColeusForAutocad)
 ![commit activity](https://img.shields.io/github/commit-activity/y/erfajo/ColeusForAutocad)
-[![License](https://img.shields.io/badge/License-Freeware-red)](license.md)  
+[![License](https://img.shields.io/badge/License-BSD 3-red)](LICENSE.md)  
 Coleus is a solution designed for the [Autocad](https://www.autodesk.com/products/autocad) environment. It helps users comply with the ISO 13567 standard and the National CAD Standards (NCS) by creating and maintaining layers based on the Molio Layer Structure 2015 (C211), the Bips Layer Structure 2005 (C201), and/or the Ibb Layer Structure 2000. In addition, the solution includes functions that enhance workflows within AutoCAD.  
 This software has had many names during its lifetime before the current name, Coleus (ColeusforAutocad). Previously, it was known as DanEDU Layers, CadManager, and Dicapro.  
   
