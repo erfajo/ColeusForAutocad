@@ -27,7 +27,7 @@ Coleus may also be installed manually using the zipped file. This is only recomm
 Copyright(c) 1996  
 Erik Falck Jørgensen  
   
-All content in this repository is part of the Orchid package.  
+All content in this executable installer or zipped file is part of ColeusForAutocad.  
   
 BSD 3-Clause License  
   

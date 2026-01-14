@@ -2,8 +2,7 @@
 Copyright(c) 1996  
 Erik Falck Jørgensen  
   
-All content in this repository is part of the Orchid package.  
-The Orchid package is also available at http://dynamopackages.com  
+All content in this executable installer or zipped file is part of ColeusForAutocad.  
   
 BSD 3-Clause License  
   
