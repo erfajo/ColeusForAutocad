@@ -7,7 +7,7 @@ Coleus is a solution designed for the [Autocad](https://www.autodesk.com/product
 This software has had many names during its lifetime before the current name, Coleus (ColeusforAutocad). Previously, it was known as DanEDU Layers, CadManager, and Dicapro.  
   
 **Software environment**  
-Built for Autocad 2026, Autocad 2025, Autocad 2024, Autocad 2023.  
+Built for Autocad 2027, Autocad 2026, Autocad 2025, Autocad 2024, Autocad 2023, Autocad 2022, and Autocad 2021.  
   
 **History/Change Log**  
 Check the [change log](changeLog.md) to see the history of Coleus.  
