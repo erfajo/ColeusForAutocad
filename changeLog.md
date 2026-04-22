@@ -2,8 +2,11 @@
 This software has had many names during its lifetime before the current name, Coleus (ColeusforAutocad). Previously, it was known as DanEDU Layers, CadManager, and Dicapro.  
   
   
+2026.0415.0  
+- Added installation for Autocad 2027.  
+  
 2025.0901.0  
-- All previous versions and renamed to "ColeusForAutocad".  
+- The tool is renamed to "ColeusForAutocad".  
 - Support for STB layers has been reestablished and still includes CTB layers.  
   
 2025.0401.0  
@@ -13,16 +16,16 @@ This software has had many names during its lifetime before the current name, Co
 - Added installation for Autocad 2025.  
   
 2023.0401.0  
-- Added installation for Autocad 2024, installation for Autocad 2020 removed.  
+- Added installation for Autocad 2024.  
   
 2022.0406.0  
-- Added installation for Autocad 2023, installation for Autocad 2019 removed.  
+- Added installation for Autocad 2023.  
   
 2021.0415.0  
-- Added installation for Autocad 2022, installation for Autocad 2018 removed.  
+- Added installation for Autocad 2022.  
   
 2020.0415.0  
-- Added installation for Autocad 2021, installation for Autocad 2017 removed.  
+- Added installation for Autocad 2021.  
   
 2019.0420.0  
 - Added installation for Autocad 2020, installation for Autocad 2016 removed.  
